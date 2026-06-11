@@ -1,18 +1,29 @@
-# Bluestock Mutual Fund Capstone Project
+# Bluestock Mutual Fund Analytics
 
-## Objective
-Build a Mutual Fund Analytics Platform using Python, SQL and Power BI.
+## Overview
+Mutual Fund Analytics Dashboard and Advanced Analytics using Python and Power BI.
 
-## Project Structure
+## Technologies
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Power BI
 
-- data/raw
-- data/processed
-- data/db
-- notebooks
-- scripts
-- sql
-- dashboard
-- reports
+## Dataset Files
+- Fund Master
+- NAV History
+- Investor Transactions
+- Benchmark Data
+
+## Features
+- VaR Analysis
+- CVaR Analysis
+- Rolling Sharpe Ratio
+- Cohort Analysis
+- Investor Risk Segmentation
+- Recommendation Engine
 
 ## Author
 Aman Kumar Rai
+
